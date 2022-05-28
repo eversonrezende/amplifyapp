@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
   },
   div: {
     color: '#FFF',
-    backgroundColor: '#f29316',
+    backgroundColor: '#ff9900',
     margin: '10px',
     marginBottom: '20px',
     padding: '15px'
@@ -62,7 +62,7 @@ const useStyles = makeStyles((theme) => ({
     padding: '10px'
   },
   camera: {
-    color: '#f29316'
+    color: '#ff9900'
   }
 }))
 
